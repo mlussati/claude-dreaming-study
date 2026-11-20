@@ -1,0 +1,24 @@
+{
+  "modelo": "claude-sonnet-5-5",
+  "instrucoes_base": "data/dream_instructions.md",
+  "notas_antes": 25,
+  "notas_depois": 10,
+  "arquivos_depois": [
+    "ambiente.md",
+    "comandos.md",
+    "convencoes.md",
+    "deploy.md",
+    "git.md",
+    "stack.md"
+  ],
+  "mantidas": 2,
+  "fundidas": 3,
+  "substituidas": 5,
+  "criadas": 0,
+  "removidas": 9,
+  "problemas_verificacao": 0,
+  "tokens": {
+    "input": 7856,
+    "output": 4878
+  }
+}
